@@ -1,0 +1,8 @@
+this is my first sile in git
+additionall content 
+<<<<<<< HEAD
+adding line to master
+=======
+latest changes
+>>>>>>> sab
+new addition in new branch
